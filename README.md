@@ -1,6 +1,6 @@
 # Connectfour
 
-This is the project made for IEEE Python Bootcamp.
+This is the project I made for IEEE Python Bootcamp.
 
 This is a game that needs 2 players.The 1st player that gets 4 same coloured discs in a line(horizontal/vertical/diagonal) wins
 
